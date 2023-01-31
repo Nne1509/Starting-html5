@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Final Project</title>
+</head>
+<body>
+	<header>
+		<h1>Nnenna Onwuka</h1>
+		<nav>
+			<a href="https://mail.google.com/">One</a>
+			<a href="https://www.w3schools.com/html/default.asp">Two</a>
+			<a href="https://intro-webdesign.com/resources.html">Three</a>
+			<a href="https://github.com/Nne1509">Github</a><br>
+		</nav>
+	</header>
+	<section>
+		<h2>Favorite Foods</h2>
+		<ul>
+			<li>Ewa Agoyin with bread and plantain</li>
+			<li>Pounded yam and Oha soup with goat meat</li>
+			<li>Tomato-based spaghetti with meatballs</li>
+			<li>Chocolate fudge cake with caramel drip</li>
+		</ul>
+	</section>
+	<section>
+		<h2>Achievements</h2>
+        	<p>Progress in this course (100%)
+        	<progress value="100" max="100"></progress>
+        	<br>
+        	Progress in the Specialization capstone (20%)
+        	<progress value="20" max="100"></progress>
+        	<br>
+        	Progress in life goals (15%)
+        	<progress value="25" max="100"></progress></p>
+    	</section>
+	<section>
+		<h2>More About Me</h2>
+        	<details>
+            	<summary>My Childhood</summary>
+			<p>I grew up in Lagos, Nigeria. I lived in Ikeja and I always miss the hustle and bustle of the city.</p>
+        	</details>		
+	</section>
+	<footer>
+		<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+		This page was created by Nnenna Onwuka &amp; Colleen Van Lent.
+		To learn more about web design, visit
+		<a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+	</footer>
+</body>
+</html>
